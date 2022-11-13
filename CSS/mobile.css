@@ -1,0 +1,259 @@
+@media (max-width:600px) {
+    .col-s-1 {
+        float: left;
+        width: 8.33%;}
+    .col-s-2 {
+        float: left;
+        width: 16.66%;}
+    .col-s-3 {
+        float: left;
+        width: 25%;}
+    .col-s-4 {
+        float: left;
+        width: 33.33%;}
+    .col-s-5 {
+        float: left;
+        width: 41.66%;}
+    .col-s-6 {
+        float: left;
+        width: 50%;}
+    .col-s-7 {
+        float: left;
+        width: 58.33%;}
+    .col-s-8 {
+        float: left;
+        width: 66.66%;}
+    .col-s-9 {
+        float: left;
+        width: 75%;}
+    .col-s-10 {
+        float: left;
+        width: 83.33%;}
+    .col-s-11 {
+        float: left;
+        width: 91.66%;}
+    .col-s-12 {
+        float: left;
+        width: 100%;}
+        header {
+            margin-bottom: -350px;
+        }
+        .logo-part{
+            text-align: center;
+        }
+        .menu-part ul{
+            text-align: center;
+        }
+        .writing-part h1{
+            margin-top: 35px;
+            font-size: 20px;
+            width: 145px;
+        }
+        .btn {
+            margin: 10px;
+            margin-left: 25px;
+        }
+        .btn button {
+            font-size: 11px;
+        }
+        .info-img-part img {
+            max-width: 200px;
+            margin-left: -127px;
+        }
+        .info-box h3 {
+            font-size: 13px;
+            text-align: center;
+            width: 100px;
+            margin-left: -44px;
+        }
+        .info-box p {
+            font-size: 8px;
+            text-align: center;
+            width: 96px;
+            margin-left: -40px;
+        }
+        .info-box {
+            padding: 15px 88px;
+            margin-top: -59px;
+        }
+        .info-box img {
+            max-width: 20px;
+            text-align: center;
+        }
+        .one {
+            left: -189px;
+        }
+        .two {
+            left: 15px;
+            top: 24px;
+        }
+        .three {
+            left: -230px;
+            top: 164px;
+        }
+        .three h3 {
+            width: 112px;
+        }
+        .four {
+            left: -21px;
+            top: 154px;
+        }
+        .stable-writing-part button {
+            margin-left: 194px;
+            width: 127px;
+        }
+        .stable-writing-part h3 {
+        width: 313px;
+        }
+        .stable-writing-part p {
+            width: 319px;
+        }
+        .stable-box-part {
+            margin: -78px;
+            margin-top: -51px;
+            width: 522px;
+        }
+        .five h6{
+
+font-size: 18px;
+
+width: 147px;
+
+}
+        .five img {
+
+max-width: 25px;
+
+}
+        .six img {
+
+max-width: 20px;
+
+}
+        .six h6{
+
+font-size: 18px;
+
+width: 136px;
+
+}
+        .six p {
+
+        }
+        .seven img {
+
+max-width: 25px;
+
+}
+        .seven h6 {
+
+font-size: 18px;
+
+width: 201px;
+
+}
+        .eight img {
+            
+max-width: 25px;
+        }
+        .eight h6 {
+
+font-size: 18px;
+
+width: 223px;
+
+}
+        .need-img-part img {
+            max-width: 95%;
+            margin-left: 36px;
+        }
+        .need-writing-part {
+            margin-top: -62px;
+        }
+        .need-icon-part img {
+            max-width: 13px;
+            margin-left: 16px;
+        }
+        .need-icon-part h6 {
+            margin-left: -29px;
+            font-size: 15px;
+            margin-top: -2px;
+        }
+        .need-writing p {
+            font-size: 11px;
+        }
+        #now {
+            margin-bottom: -245px;
+        }
+        .now-img-part img {
+            max-width: 44%;
+        }
+        .now-writing-part {
+            margin-top: -35px;
+        }
+        .now-writing h4 {
+            margin-left: -44px;
+        }
+        .now-writing p {
+            margin-left: 13px;
+        }
+        .now-writing img {
+            max-width: 97px;
+            margin-right: -6px;
+            margin-left: 23px;
+            margin-top: 72px;
+        }
+        .bt {
+            top: -73px;
+        }
+        .bt button  {
+            font-size: 10px;
+            padding: 14px 45px;
+        }
+        #get {
+            padding: 13px 0px;
+        }
+        .nothing {
+            display: block;
+        }
+        .get-writing-part {
+            margin-left: -44px;
+        }
+        .get-write {
+            font-size: 10px;
+            margin: -31px 0px;
+            padding: 19px;
+            margin-left: -1px;
+            margin-right: 1px;
+        }
+        .get-write h6 {
+            margin: -4px -21px;
+            font-size: 14px;
+            margin-left: -2px;
+            margin-top: 23px;
+            width: 94px;
+        }
+        .get-write ul {
+            font-size: 10px;
+            padding: 0px 4px;
+            width: 100px;
+        }
+        .frm {
+            width: 232px;
+            margin-left: -10px;
+            height: 32px;
+        }
+        .sbt {
+            width: 92px;
+            font-size: 9px;
+            height: 30px;
+            margin-left: 4px;
+        }
+        .footer-writing-part {
+            text-align: center;
+        }
+        .footer-icon-part {
+            text-align: center;
+            margin-top: 10px;
+        }
+}
